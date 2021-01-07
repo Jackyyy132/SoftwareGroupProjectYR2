@@ -1,0 +1,32 @@
+when user enters incorrect password 3 times, blocks for x minutes.
+
+logout button disposes search form
+
+https://www.mathsisfun.com/data/correlation.html Correlation calculator
+
+https://www.youtube.com/watch?v=nwf0rMsn-eY
+
+Need to add graphical representation
+
+encryption
+
+            //Add the account and password to the array "AccPassArray"
+////            String EncryptUserTF = "";
+////            String EncryptPassTF = "";
+////            int AlphabetTotal = 26;
+////            int ShiftLetters = 5;
+////            for (int i = 0; i < UsernameTF.getText().length(); i++){
+////                char Character = (char)(UsernameTF.getText().charAt(i));
+////                if (Character >= 'A' && Character <= 'Z') {
+////                        EncryptUserTF += (char)((Character - 'A' + ShiftLetters) % AlphabetTotal + 'A');
+////                    }
+////                    else if (Character >= 'a' && Character <= 'z') {
+////                        EncryptUserTF += (char)((Character - 'a' + ShiftLetters) % AlphabetTotal + 'a');
+////                    }
+////                    else{
+////                        EncryptUserTF += Character;
+////                    }
+////            }
+
+
+ENCRYPTION WORKS ON THIS VERSION

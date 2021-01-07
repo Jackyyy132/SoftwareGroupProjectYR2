@@ -1,0 +1,8 @@
+Feedback received:
+Farhaan and lava both indicated that i need to set the jtable to uneditable. Not allow users to move the columns as well
+Personal/sensitive information on the user log shouldnt be there - Lava
+
+
+Jathusan Feedback:
+
+I think you did good job but in my opinion I think the graph can be done in different way other than that you did amazing job. 
